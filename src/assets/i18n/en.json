@@ -1,0 +1,39 @@
+{
+  "GENERAL": {
+    "WELCOME": "Welcome"
+  },
+  "HEADER": {
+    "MORE": {
+      "TEXT": "More"
+    }
+  },
+  "MENUITEMS": {
+    "MENU": {
+      "TEXT": "MENU"
+    },
+    "DASHBOARD": {
+      "TEXT": "Dashboard"
+    },
+    "SETTINGS": {
+      "TEXT": "Settings",
+      "LIST": {
+        "ADMINISTRATORS": "Administrators",
+        "SHORTCUTS": "Shortcuts",
+        "ROLES": "Roles"
+      }
+    }
+  },
+  "LANGUAGES": {
+    "ENGLISH": "English",
+    "PORTUGUESE_BRAZIL": "Portuguese Brazil"
+  },
+  "TOP": {
+    "MENU_USER": {
+      "PROFILE": "Profile",
+      "LOGOUT": "Logout"
+    }
+  },
+  "FOOTER": {
+    "DEVELOP_BY": "Develop by"
+  }
+}

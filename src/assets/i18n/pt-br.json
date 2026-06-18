@@ -1,0 +1,39 @@
+{
+  "GENERAL": {
+    "WELCOME": "Bem vindo"
+  },
+  "HEADER": {
+    "MORE": {
+      "TEXT": "Mais"
+    }
+  },
+  "MENUITEMS": {
+    "MENU": {
+      "TEXT": "MENU"
+    },
+    "DASHBOARD": {
+      "TEXT": "Painel"
+    },
+    "SETTINGS": {
+      "TEXT": "Configurações",
+      "LIST": {
+        "ADMINISTRATORS": "Administradores",
+        "SHORTCUTS": "Atalhos",
+        "ROLES": "Funções"
+      }
+    }
+  },
+  "LANGUAGES": {
+    "ENGLISH": "Inglês",
+    "PORTUGUESE_BRAZIL": "Português Br"
+  },
+  "TOP": {
+    "MENU_USER": {
+      "PROFILE": "Perfil",
+      "LOGOUT": "Sair"
+    }
+  },
+  "FOOTER": {
+    "DEVELOP_BY": "Desenvolvido por"
+  }
+}

@@ -1,0 +1,13 @@
+.resend-code {
+  cursor: pointer;
+  color: #0ab39c;
+}
+
+.resend-code[disabled] {
+  cursor: not-allowed;
+  color: #ccc;
+}
+
+.border-none {
+  border: none !important;
+}
