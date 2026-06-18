@@ -27,6 +27,8 @@ Aqui estão algumas das principais telas do ecossistema em funcionamento:
 ### 3. Controle de Permissões e Roles (Ações de Tela)
 > Exemplo prático de botões (Criar, Editar, Deletar) aparecendo e sumindo do DOM de acordo com os privilégios do usuário logado.
 ![Controle de Permissões](screenshots/roles.png)
+> 
+![Controle de Permissões - Modal](screenshots/role-modal.png)
 
 ### 4. Controle de Shortcuts (Ações de Tela)
 > Exemplo prático de botões (Criar, Editar, Deletar) aparecendo e sumindo do DOM de acordo com os privilégios do usuário logado.
