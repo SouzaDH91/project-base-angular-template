@@ -25,7 +25,6 @@ import lottie from 'lottie-web';
 // Pages Routing
 import { PagesRoutingModule } from "./pages-routing.module";
 import { SharedModule } from "../shared/shared.module";
-import { WidgetModule } from '../shared/widget/widget.module';
 import { DashboardComponent } from './dashboard/dashboard.component';
 import {AdministratorsComponent} from "./administrators/administrators.component";
 import {TableComponent} from "../shared/table/table.component";
@@ -50,7 +49,6 @@ import {RolesComponent} from "./roles/roles.component";
         SimplebarAngularModule,
         PagesRoutingModule,
         SharedModule,
-        WidgetModule,
         SlickCarouselModule,
         LightboxModule,
         NgbPagination,
